@@ -1,5 +1,5 @@
 # Learning resources
-
+ 
 <p class="description">New to Material UI? Get up to speed quickly with our curated list of learning resources.</p>
 
 ## Your first component
